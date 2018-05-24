@@ -1,0 +1,10 @@
+c:\users\1900\documents\visual studio 2010\Projects\CoctailSort\CoctailSort\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\1900\documents\visual studio 2010\Projects\CoctailSort\CoctailSort\bin\Debug\CoctailSort.exe
+c:\users\1900\documents\visual studio 2010\Projects\CoctailSort\CoctailSort\bin\Debug\CoctailSort.pdb
+c:\users\1900\documents\visual studio 2010\Projects\CoctailSort\CoctailSort\obj\x86\Debug\CoctailSort.exe
+c:\users\1900\documents\visual studio 2010\Projects\CoctailSort\CoctailSort\obj\x86\Debug\CoctailSort.pdb
+D:\CoctailSort\CoctailSort\bin\Debug\CoctailSort.exe
+D:\CoctailSort\CoctailSort\bin\Debug\CoctailSort.pdb
+D:\CoctailSort\CoctailSort\obj\x86\Debug\CoctailSort.csproj.CoreCompileInputs.cache
+D:\CoctailSort\CoctailSort\obj\x86\Debug\CoctailSort.exe
+D:\CoctailSort\CoctailSort\obj\x86\Debug\CoctailSort.pdb
